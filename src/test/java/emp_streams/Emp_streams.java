@@ -384,4 +384,46 @@ public void oldestEmp() throws Exception {
 
 
 
+
+
+
+
+
+
+
+
+
+
+//  @Test
+//  public void oldestEmp() throws Exception {
+//    ImmutableList<Employee> emp = MockData.getEmployees();
+//
+//    emp.stream()
+//            .max(Comparator.comparingInt(Employee::getAge))
+//            .ifPresent(System.out::println);
+//
+//
+//  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 }
